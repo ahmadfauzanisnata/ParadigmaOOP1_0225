@@ -3,5 +3,8 @@
 using namespace std;
 
 class mahasiswa {
-    private
+    private:
+        const int id;
+        string nama;
+        float nilai;
 }
